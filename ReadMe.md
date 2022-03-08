@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a project trying to guide students throughout [Github](https://www.github.com) and *readMe* files
+This is a **project** trying to guide students throughout [Github](https://www.github.com) and *readMe* files
 
 ## Steps
 1. First Step
