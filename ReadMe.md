@@ -16,4 +16,4 @@ This is a project trying to guide students throughout [Github](https://www.githu
 ## Change Log
 
 ### Version 1.0.0
-  - Change documentation inside the readMe file just for testing purposes.
+  - Change documentation inside the readMe file just for **testing** purposes.
